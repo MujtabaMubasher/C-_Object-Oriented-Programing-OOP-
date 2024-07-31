@@ -1,0 +1,5 @@
+What is Padding
+what is Greedy Alignment
+What is Const Keyword, function
+what is Const Object, DataMembers
+what is Initialization List
